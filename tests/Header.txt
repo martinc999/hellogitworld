@@ -1,1 +1,0 @@
-POST /api/v2/customer HTTP/1.1accept-encoding: gzip,deflate content-type: text/xml openpayusignature: sender=11111;signature=69d82f61184e782f611812282f6118fa069dfcdf ;algorithm=SHA-1;content=DOCUMENT content-length: 1331 host: localhost:4452 connection: Keep-Alive user-agent: Apache-HttpClient/4.1.1 (java 1.5)
